@@ -1,10 +1,10 @@
 
 
-print("feed me three nouns")
+print("Add three nouns")
 nouns = [input(),input(),input()]
-print("feed me two adjectives")
+print("Add two adjectives")
 adjective = [input(),input()]
-print("feed me a verb")
+print("Add a verb")
 verbs =[input()]
 
 
